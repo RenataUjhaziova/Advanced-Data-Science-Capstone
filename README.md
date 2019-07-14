@@ -1,1 +1,1 @@
-# IBM_Advanced_Data_Science_Capstone_Project
+# IBM Advanced Data Science Capstone Project
