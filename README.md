@@ -19,4 +19,4 @@ In this repository you can find:
 - notebook with data exploratory phase
 - notebooks for each model creation and deployment
 - Lightweight_IBM Cloud_Garage_Method_for_DS_ADD_Ujhaziova.pdf
-- AdvanceDataScienceCapstoneProject_Ujhaziova_final.pptx
+- AdvanceDataScienceCapstoneProject_Ujhaziova_final.pdf
