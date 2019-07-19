@@ -18,7 +18,7 @@ This dataset contains images with healthy grape leaves and with three different 
 The images were captured in one Vineyard in the South East of Slovakia and the dataset was prepared from these images. 
 The dataset contains images for training set, test set and validation set. The number of images is equal for each class that’s why there was no need to solve issue with imbalanced dataset.
 
-In this repository you can find 
+In this repository you can find:
 - notebook with data exploratory phase
 - notebooks for each model creation and deployment
 - Lightweight_IBM Cloud_Garage_Method_for_DS_ADD_Ujhaziova.pdf
