@@ -10,10 +10,7 @@ The model_deployment_endpoint_url of the deployed model then can be used as REST
 For this project I used dataset from the following link:
 https://github.com/RenataUjhaziova/datasetWS_DvsEvsHvsM_512-512_git
 
-This dataset contains images with healthy grape leaves and with three different kind of diseases:
-•	“Dry grape leaves diseases”, 
-•	Esca,
-•	Grape erineum mite disease. 
+This dataset contains images with healthy grape leaves and with three different kind of diseases: “Dry grape leaves diseases”, Esca, Grape erineum mite disease. 
 
 The images were captured in one Vineyard in the South East of Slovakia and the dataset was prepared from these images. 
 The dataset contains images for training set, test set and validation set. The number of images is equal for each class that’s why there was no need to solve issue with imbalanced dataset.
